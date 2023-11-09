@@ -1,0 +1,7 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Methods\obj\Debug\Methods.pdb

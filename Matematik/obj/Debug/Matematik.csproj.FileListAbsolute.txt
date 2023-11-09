@@ -1,0 +1,7 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\bin\Debug\Matematik.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\bin\Debug\Matematik.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\obj\Debug\Matematik.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Matematik\obj\Debug\Matematik.pdb

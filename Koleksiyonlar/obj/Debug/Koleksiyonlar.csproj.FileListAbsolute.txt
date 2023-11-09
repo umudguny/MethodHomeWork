@@ -1,0 +1,7 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Methods\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
